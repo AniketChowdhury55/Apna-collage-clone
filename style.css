@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0pc 0px 5px rgba(0, 0, 0, 0.089);
+}
+
+.part{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+    width: 100%;
+    padding-left: 24.5rem;
+    padding-right: 15rem;
+}
+
+#logo{
+    height: 45px;
+}
+
+#but{
+    background-color: #6674cc;
+    height: 40.8px;
+    width: 148.13px;
+    color: white;
+    border: none;
+    border-radius: 9px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+#button{
+    background: transparent;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: .9rem;
+    font-weight: 550;
+
+}
+
+.navicons{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+
+}
+
+#shradhrakhapra{
+    height: 420px;
+}
+
+#Learn h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+#Learn p{
+    color: #6674cc;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.section1-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 24.5rem;
+    padding-right: 15rem;
+    padding-top: 4.5rem;
+}
+
+#butt{
+    background-color: #6674cc;
+    height: 40.8px;
+    width: 148.13px;
+    color: white;
+    border: none;
+    border-radius: 9px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
